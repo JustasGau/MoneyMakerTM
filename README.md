@@ -11,3 +11,13 @@
 
 
 **Test driven development**
+
+**How to install OpenGL on linux**
+
+1. Install OpenGL:
+        sudo apt-get install build-essential libgl1-mesa-dev
+2. Install required libraries:
+        sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
+3. Install required utils:
+        sudo apt install mesa-utils
+
