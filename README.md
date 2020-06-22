@@ -11,3 +11,16 @@
 
 
 **Test driven development**
+
+
+
+**Stuff**
+Removed console form Visual Studio
+
+
+* Right click on your project in visual studio.
+* Expand the Linker options.
+* Click on System.
+* Change "SubSystem" to Windows (/SUBSYSTEM:WINDOWS)
+* Click on Advanced under the expanded Linker items.
+* In the Entry Point box, change it to mainCRTStartup.
